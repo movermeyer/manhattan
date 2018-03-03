@@ -5,9 +5,9 @@ Manhattan - Robust Server-Side Analytics
     :target: http://travis-ci.org/storborg/manhattan
 .. image:: https://coveralls.io/repos/storborg/manhattan/badge.png?branch=master
     :target: https://coveralls.io/r/storborg/manhattan
-.. image:: https://pypip.in/v/manhattan/badge.png
+.. image:: https://img.shields.io/pypi/v/manhattan.svg
     :target: https://crate.io/packages/manhattan
-.. image:: https://pypip.in/d/manhattan/badge.png
+.. image:: https://img.shields.io/pypi/dm/manhattan.svg
     :target: https://crate.io/packages/manhattan
 
 Scott Torborg - `Cart Logic <http://www.cartlogic.com>`_
